@@ -1,0 +1,27 @@
+{
+  "term": "Spring",
+  "year": "2025",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "oof-course"
+  },
+  "course_image": {
+    "content": "",
+    "website": "oof-course"
+  },
+  "course_title": "Oof Course",
+  "hide_download": false,
+  "mit_learn_topics": [],
+  "course_description": "This is an oof course",
+  "department_numbers": [],
+  "extra_course_numbers": "",
+  "primary_course_number": "OOF100",
+  "learning_resource_types": [],
+  "site_uid": "ca07e4f4-5f84-4e58-8e06-117f7b6bce53",
+  "site_short_id": "oof-course"
+}
